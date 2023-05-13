@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TP2_convertisseurDE</string>
+    <string name="conv">Convertisseur de devise</string>
+    <string name="Montant">Montant en TND</string>
+    <string name="EUR">Résultat en EUR</string>
+    <string name="base_currency_prompt">USD</string>
+
+    <string name="USD">Résultat en USD</string>
+    <string name="GBP">Résultat en GBP</string>
+    <string name="bouttonConv">Convertir</string>
+
+    <string name="convTemp">Convertisseur des Température</string>
+    <string name="cel">Température en celsius</string>
+    <string name="fer">Résultat en Fahrenheit</string>
+
+
+
+
+</resources>
